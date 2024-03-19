@@ -1,12 +1,12 @@
 
 <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="1200" height="300"/>
 <h1 align="center">Hi 👋, I'm Vadla Sreedhar</h1>
-<h3 align="center">A passionate Full Stack Solidity Web developer from India</h3>
+<h3 align="center">A passionate Web3 developer from India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sridharvadla45&label=Profile%20views&color=0e75b6&style=flat" alt="sridharvadla45" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJs,SpringBoot,Hibernate**
+- 🌱 I’m currently learning **ReactJs,Solana Blockchain Development **
 
 - 💬 Ask me about **Java,Solidity,ReactJs,SpringBoot**
 
