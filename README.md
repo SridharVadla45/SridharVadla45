@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Backend Web Development Projects**
-- - 🔭 I’m currently actively searching for  **Java Developer Jobs**
-- 🌱 I’m currently learning **System Design & Microservices **
+- 🔭 I’m currently actively searching for  **Java Developer Jobs**
+- 🌱 I’m currently learning **System Design & Microservices**
 - 👯 I’m looking to collaborate on **Backend Dev Projects**
 - 💬 Ask me about **Technology and Development**
 - 📫 How to reach me: **vadlasreedhar123@gmail.com**
