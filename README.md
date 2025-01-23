@@ -37,8 +37,8 @@ I’m a passionate **Java Developer** with expertise in **High-Level and Low-Lev
 ### 🤝 **Let's Connect**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sridharvadla/) 
-[Leetcode]([url](https://leetcode.com/u/vadlasreedhar/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sridharvadla/) 
+- [Leetcode](https://leetcode.com/u/vadlasreedhar/)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
